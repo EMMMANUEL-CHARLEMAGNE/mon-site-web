@@ -1,0 +1,119 @@
+h1{
+color: gold;
+font-size: 3.4rem;
+text-align: center;
+background-color: rgba(0, 255, 51, 0.144);
+border:solid 3px coral;
+left: 5%;
+text-transform: uppercase;
+border-radius: 3px;
+
+}
+
+a{
+color: rgb(165, 42, 91);
+font-size: x-large;
+text-decoration: double;
+background-color: rgb(76, 43, 226);
+transition: background-color 0.3s ease ;
+font-size: 15px;
+border:solid 3px rgb(90, 16, 170);
+font-weight: 600;
+border-width: 1px;
+border-radius: 15px;
+padding: 7px 40px;
+}
+a:hover{
+background-color: rgb(10, 202, 61);
+
+}
+
+
+p{
+color: rgb(119, 22, 46);
+font-size: 14px;
+font-size: larger;
+text-align: center;
+}
+h2{
+color: rgb(247, 16, 16);
+font-size: xx-large;
+font-weight: 300;
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+h4{
+color: rgb(238, 246, 17);
+font-weight: 300;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-align: center;
+
+}
+h5{
+font-size: larger;
+text-align: center;
+font-size: x-large;
+}
+
+header{
+font-size: x-large;
+color: rgb(8, 188, 86);
+text-align: center;
+
+}
+#block1{
+background-color: rgba(0, 22, 31, 0.628);
+background-image: url(image/photo-1699891730676-037bed3c1bed.avif);
+background-size: cover;
+color: white;
+
+}
+section{
+
+position: relative;
+top: 40%;
+text-align: left;
+}
+
+    
+ 
+ul{
+color: oklab(48.131% 0.14026 0.09361);
+text-align: left;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+div.title0{
+display: flex;
+
+}
+div.title{
+    display: flex;
+}
+nav img{
+    width: 32px;
+    margin-right: 8px;
+}
+
+
+div.title{
+    display: flex;
+}
+
+div .serv .row{
+display: flex;
+}
+div.serv-til{
+display: flex;
+
+}
+.serv-til img{
+width: 32px;
+margin-right: 8px;
+
+}
+ div .position{
+    text-align: center;
+    padding:  9% 50px;
+
+ }
